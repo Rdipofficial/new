@@ -17,9 +17,9 @@ class Config(object):
     # REQUIRED
     #Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 12345   # integer value, dont use ""
-    API_HASH = "awew"
-    TOKEN = "wow"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    API_ID = 25748479   # integer value, dont use ""
+    API_HASH = "a2605f5312dcc313c73eb484ec25e84a"
+    TOKEN = "6274998416:AAGwtr5aLX44D8WlJOv2FdtfAof6gpK3_q4"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     SQLALCHEMY_DATABASE_URI = "" #Use Your ElephantSQL
     OWNER_ID = 1491497760  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "nandhaxd"
